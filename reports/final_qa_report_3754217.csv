@@ -1,0 +1,15 @@
+match_id,event_id,period,minute,second,timestamp,team_id,team_name,player_id,player_name,event_type,card_classification,sub_player_in,detail,validation_status,issue_description
+3754217,9d86a178-3514-45d1-9d14-1372e846d17b,1,0,0,00:00:00.000,33,Chelsea,,,Starting XI,,,Starting Lineup Submitted,Valid,No issues detected.
+3754217,82acc213-90f3-4fee-8305-bd9e403cec42,1,0,0,00:00:00.000,1,Arsenal,,,Starting XI,,,Starting Lineup Submitted,Valid,No issues detected.
+3754217,3729c2a1-7eb3-408e-b0da-7b847307efcf,1,30,50,00:30:50.819,1,Arsenal,11386.0,Santiago Cazorla González,Card,Yellow Card,,Disciplinary: Yellow Card,Valid,No issues detected.
+3754217,6fe3e1b2-54fd-44ca-8292-9699f9ff6304,2,45,0,00:00:00.217,1,Arsenal,3437.0,Francis Joseph Coquelin,Substitution,,Calum Chambers,Out: Francis Joseph Coquelin | In: Calum Chambers,Valid,No issues detected.
+3754217,09e8b572-43ae-4e69-bbaa-b5eaa39eab75,2,48,9,00:03:09.400,33,Chelsea,5594.0,Branislav Ivanović,Card,Yellow Card,,Disciplinary: Yellow Card,Valid,No issues detected.
+3754217,a9494c8c-9355-42c5-a020-dcc392b465f0,2,52,11,00:07:11.053,33,Chelsea,3456.0,Kurt Happy Zouma,Goal,,,Scored via Head,Valid,No issues detected.
+3754217,2804f4da-f85c-45a5-a26b-1f72a0665e57,2,62,53,00:17:53.546,33,Chelsea,40122.0,Oscar dos Santos Emboaba Júnior,Card,Yellow Card,,Disciplinary: Yellow Card,Valid,No issues detected.
+3754217,dae02e98-948e-480c-9907-14838b00c1b5,2,68,38,00:23:38.290,33,Chelsea,40122.0,Oscar dos Santos Emboaba Júnior,Substitution,,Ramires Santos do Nascimento,Out: Oscar dos Santos Emboaba Júnior | In: Ramires Santos do Nascimento,Valid,No issues detected.
+3754217,ee520b45-8989-4473-a809-7eede5ca3218,2,70,54,00:25:54.700,1,Arsenal,3713.0,Calum Chambers,Card,Yellow Card,,Disciplinary: Yellow Card,Valid,No issues detected.
+3754217,74dacaad-6f3b-40c6-960c-53506d3ac800,2,74,32,00:29:32.526,1,Arsenal,3385.0,Alexis Alejandro Sánchez Sánchez,Substitution,,Alex Oxlade-Chamberlain,Out: Alexis Alejandro Sánchez Sánchez | In: Alex Oxlade-Chamberlain,Valid,No issues detected.
+3754217,791b07b1-5079-43f6-9d35-92d033354065,2,74,33,00:29:33.392,1,Arsenal,3496.0,Mesut Özil,Substitution,,Olivier Giroud,Out: Mesut Özil | In: Olivier Giroud,Valid,No issues detected.
+3754217,29f7a3cb-f7a0-4164-9e47-8b531c451f6a,2,78,23,00:33:23.074,1,Arsenal,11386.0,Santiago Cazorla González,Card,Second Yellow,,Disciplinary: Second Yellow,Valid,No issues detected.
+3754217,cd1000d6-17c1-4119-863d-b95e97b12d40,2,81,31,00:36:31.097,33,Chelsea,5198.0,Diego da Silva Costa,Substitution,,Loïc Rémy,Out: Diego da Silva Costa | In: Loïc Rémy,Valid,No issues detected.
+3754217,a258a4f5-4bac-4262-8d4f-6530693e6ba5,2,91,5,00:46:05.057,33,Chelsea,3478.0,Francesc Fàbregas i Soler,Substitution,,John Michael Nchekwube Obinna,Out: Francesc Fàbregas i Soler | In: John Michael Nchekwube Obinna,Valid,No issues detected.
