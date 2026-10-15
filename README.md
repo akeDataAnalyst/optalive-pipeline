@@ -1,4 +1,4 @@
-# OptaLive: Automated Data Engineering & QA Pipeline
+# Automated Data Engineering & QA Pipeline
 
 ## Description
 **OptaLive** is a backend data engineering pipeline and automated Quality Assurance (QA) rules engine that models the operational workflow of an in-ground sports data correspondent. Built using StatsBomb Open Data (English Premier League 2015/2016 season), the system ingests raw JSON feeds, validates pre-match team sheets, processes chronological match incidents, and computes a quantitative Match Health Score to guarantee broadcast-grade data integrity.
